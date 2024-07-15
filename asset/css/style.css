@@ -1,0 +1,18 @@
+.galery {
+  padding: 54px;
+  display: flex;
+  justify-content: center;
+}
+
+.map.text {
+  font-size: 10px;
+}
+
+.description-text {
+  font-size: 24px;
+  color: #212529;
+}
+
+.element-name {
+  font-size: 19px;
+}
